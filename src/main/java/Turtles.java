@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+import java.time.Duration;
+import java.time.Instant;
 
 /**
  * Created by kristofer on 7/14/20.

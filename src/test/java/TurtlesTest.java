@@ -1,4 +1,4 @@
-import static org.junit.Assert.*;
+import org.junit.Assert.*;
 
 /**
  * Created by kristofer on 7/14/20.
